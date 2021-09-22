@@ -8,6 +8,10 @@ To run this on your system you need Jupyter Notebook installed.
 
 [Install Jupyter Notebook from here](https://jupyter.org/install)
 
+Also run in your terminal 
+
+pip install sklearn
+
 ## Datasets - >
     Boston 
     Iris 
