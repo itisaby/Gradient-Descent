@@ -6,6 +6,8 @@ It's a basic gradient descent project using some basic datasets in sklearn which
 
 To run this on your system you need Jupyter Notebook installed. 
 
+[Install Jupyter Notebook from here](https://jupyter.org/install)
+
 ## Datasets - >
     Boston 
     Iris 
