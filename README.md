@@ -18,7 +18,7 @@ pip install sklearn
     Diabetes 
     PowerPlant
 
-Libraries Used - > 
+## Libraries Used - > 
     Sklearn 
     Numpy
     Pandas
