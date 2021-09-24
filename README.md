@@ -17,3 +17,4 @@ pip install sklearn
     Iris 
     Diabetes 
     PowerPlant
+    
