@@ -17,4 +17,9 @@ pip install sklearn
     Iris 
     Diabetes 
     PowerPlant
-    
+
+Libraries Used - > 
+    Sklearn 
+    Numpy
+    Pandas
+    Matplotlib
